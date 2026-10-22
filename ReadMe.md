@@ -83,8 +83,8 @@ const currentFocus = {
 
 | Project | Stack | What it does |
 |---|---|---|
-| [Local File Converter](https://github.com/NASRULLOWDANIELL/local-file-converter) | JavaScript | Personal file converter locally for greater privacy |
-| [Local Scanner](https://github.com/NASRULLOWDANIELL/local-scanner) | Java | Personal scanner project for Android |
+| [Local File Converter] | JavaScript | Personal file type converter locally for greater privacy |
+| [Local Scanner] | Java | Personal scanner project for Android |
 | [RakanSewa](https://github.com/NASRULLOWDANIELL/rakansewa) | React + Spring Boot | Final Year Project: Rental and housemate matching platform |
 | CatHotel | HTML, CSS, JavaScript + Spring Boot | Course Project: Self-service management system for cat boarding |
 
