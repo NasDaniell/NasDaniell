@@ -48,8 +48,7 @@
 
 ## 🧭 Contribution Metrics
 
-<!-- Enable this image after setting up the metrics workflow. -->
-<!-- ![Contribution metrics](github/metrics.svg) -->
+![Contribution Metrics](github/metrics.svg)
 
 ---
 
