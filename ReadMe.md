@@ -1,16 +1,76 @@
-# 💫 About Me:
-# Hi 👋 I'm Nas Daniell<br><br>🎓 Year 3 Information System Engineering student at UiTM Jasin<br><br>🚀 Full-stack developer building modern web applications using React, Java & Spring Boot<br><br>---<br><br>## 🛠 Tech Stack<br><br>### Frontend<br>- HTML<br>- CSS<br>- JavaScript<br>- React<br><br>### Backend<br>- Java<br>- Spring Boot<br>- Maven<br><br>### Database & Tools<br>- MySQL<br>- Docker<br>- Git<br>- GitHub<br>- Railway<br>- Vercel<br>- Heroku<br><br>---<br><br>## 🚀 Featured Projects<br><br>### 🏠 RakanSewa<br>Rental & housemate matching platform built with React and Spring Boot.<br><br>**Tech Used:**<br>React • Java • Spring Boot • Docker • Railway • Vercel<br><br>### 🐱 CatHotel Self Service System<br>Hotel self-service management system for cat boarding operations.<br><br>**Tech Used:**<br>HTML • CSS • JavaScript • Java • Spring Boot • Maven • Heroku<br><br>---<br><br>## 🌱 Currently Learning<br>- Modern AI-assisted development workflows<br>- Deployment systems<br>- Better full-stack architecture<br><br>---<br><br>## ⚡ Interests<br>- Full-stack development<br>- Modern deployment workflows<br>- React<br><br>---<br><br>## 📫 Connect With Me<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasrul-low-daniell-bin-mohamad-amirul-asri-low-7834a8271/)
-<br><br>
+## 🧠 About Me
 
+- 🎓 Studying Information Systems Engineering at UiTM Jasin
+- 🛠️ Building personal projects that solve everyday problems
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nasdaniell00@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NASRULLOWDANIELL&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=NASRULLOWDANIELL&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NASRULLOWDANIELL&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
+
+---
+
+## 📊 GitHub Compass
+
+<div align="center">
+
+<img height="160" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=NasDaniell&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasDaniell&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="70%" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=NasDaniell&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧭 Contribution Metrics
+
+<!-- Enable this image after setting up the metrics workflow. -->
+<!-- ![Contribution metrics](github/metrics.svg) -->
+
+---
+
+## 🔬 Currently Exploring
+
+```javascript
+const currentFocus = {
+  backend: ["Elixir", "Phoenix"],
+  development: ["AI-assisted workflows", "Code review", "Testing"],
+  delivery: ["CI/CD", "GitHub and Linear integration"],
+  projects: ["Local tools", "File conversion", "Android development"]
+};
+```
+
+---
+
+## 📌 Featured Projects
+
+| Project | Stack | What it does |
+|---|---|---|
+| [Local File Converter](https://github.com/NASRULLOWDANIELL/local-file-converter) | JavaScript | Personal file converter locally for greater privacy |
+| [Local Scanner](https://github.com/NASRULLOWDANIELL/local-scanner) | Java | Personal scanner project for Android |
+| [RakanSewa](https://github.com/NASRULLOWDANIELL/rakansewa) | React + Spring Boot | Final Year Project: Rental and housemate matching platform |
+| CatHotel | HTML, CSS, JavaScript + Spring Boot | Course Project: Self-service management system for cat boarding |
