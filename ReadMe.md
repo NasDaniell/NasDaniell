@@ -1,6 +1,6 @@
 ## 🧠 About Me
 
-- 🎓 Studying Information Systems Engineering at UiTM Jasin
+- 🎓 Studied Information Systems Engineering
 - 🛠️ Building personal projects that solve everyday problems
 
 ---
