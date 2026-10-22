@@ -54,6 +54,18 @@
 
 ---
 
+<h2>🐍 Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NasDaniell/NasDaniell/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NasDaniell/NasDaniell/output/snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/NasDaniell/NasDaniell/output/snake.svg" />
+  </picture>
+</div>
+
+---
+
 ## 🔬 Currently Exploring
 
 ```javascript
@@ -75,3 +87,7 @@ const currentFocus = {
 | [Local Scanner](https://github.com/NASRULLOWDANIELL/local-scanner) | Java | Personal scanner project for Android |
 | [RakanSewa](https://github.com/NASRULLOWDANIELL/rakansewa) | React + Spring Boot | Final Year Project: Rental and housemate matching platform |
 | CatHotel | HTML, CSS, JavaScript + Spring Boot | Course Project: Self-service management system for cat boarding |
+
+---
+
+<sub>Profile README layout inspired by [DeryFerd](https://github.com/DeryFerd).</sub>
