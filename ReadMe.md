@@ -90,4 +90,4 @@ const currentFocus = {
 
 ---
 
-<sub>Profile README layout inspired by [DeryFerd](https://github.com/DeryFerd).</sub>
+<sub>Profile README adapted from [DeryFerd](https://github.com/DeryFerd)</sub>
